@@ -1,0 +1,20 @@
+{
+  "name": "lambdagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pahmurny-itechart/lambdagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pahmurny-itechart/lambdagram/issues"
+  },
+  "homepage": "https://github.com/Pahmurny-itechart/lambdagram#readme"
+}
